@@ -17,3 +17,5 @@ Observing how small changes impact training dynamics and validation results
 Developing intuition for working with deep learning models
 
 This repository is mainly experimental and meant for learning and fun!
+
+![Screenshot](Zrzut%20ekranu%202025-04-26%20o%2022.30.48.png)
